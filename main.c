@@ -14,7 +14,7 @@ int main() {
     scanf("%d", &second_number);
 
     printf("Enter operator (+, -, *, /): ");
-    scanf(" %c", &operator);  // Buradaki boşluk önemli
+    scanf(" %c", &operator);
 
     switch (operator) {
         case '+':
